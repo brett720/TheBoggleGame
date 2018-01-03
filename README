@@ -1,0 +1,5 @@
+Designed data structure and algorithm for the game with 50000-word dictionary. The algorithm responds to find all the words appeared on game panel or give a feedback of the input by player. Using a ternary trie to hold the dictionary, and DFS for searching valid words recursively.
+
+
+Worked on: boggleplayer.cpp boggleplayer.h 
+		   boggleutil.cpp  boggleutil.h
